@@ -1,6 +1,6 @@
 # Oracle 19c RAC
 
-Hi everyone, I will start complete guide of  Oracle RAC 19c lab setup. I have listed all the main points that I will cover during my up coming videos on my youtube channel, so it can be easy for you to follow and understand each point, besides that those steps will save your time if you follow, so I put those point in a notepad as you can see here:
+
 
 ## TOC
 - [Oracle 19c RAC](#oracle-19c-rac)
